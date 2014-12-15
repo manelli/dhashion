@@ -9,4 +9,6 @@ Gem::Specification.new do |spec|
   spec.description   = 'Lagrangian dHash in Ruby.'
   spec.homepage      = 'http://github.com/manelli/dhashion'
   spec.license       = 'MIT'
+
+  spec.add_dependency 'rmagick'
 end
