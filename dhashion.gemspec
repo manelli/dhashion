@@ -10,5 +10,5 @@ Gem::Specification.new do |spec|
   spec.homepage      = 'http://github.com/manelli/dhashion'
   spec.license       = 'MIT'
 
-  spec.add_dependency 'rmagick'
+  spec.add_runtime_dependency 'rmagick', '~> 2.13', '>= 2.13.4'
 end
