@@ -1,3 +1,6 @@
+# encoding: utf-8
+require 'RMagick'
+
 module Dhashion
   UnableToOpenImage = Class.new(StandardError)
 
