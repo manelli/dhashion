@@ -1,7 +1,7 @@
 # encoding: utf-8
 Gem::Specification.new do |spec|
   spec.name          = 'dhashion'
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.authors       = 'Martin Manelli'
   spec.email         = 'manelli.ml@gmail.com'
   spec.files         = ['lib/dhashion.rb']
